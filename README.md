@@ -1,4 +1,4 @@
 # glmounika-Portfolio
-Hello, This is Navneet Singh personal portfolio website.
+Hello, This is g.l.mounika personal portfolio website.
 This website is creted using HTML, CSS, Javascript. 
-<a href="https://navneet1304.github.io/Navneet-Singh-Portfolio/"> Live Demo </a>
+<a href=""> Live Demo </a>
